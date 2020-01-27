@@ -1,9 +1,9 @@
 # Zork
-projet réaliser en java en appliquant les concepts de la programmation orientée objet.
+Projet réalisé en java en appliquant les concepts de la programmation orientée objet.
 
 ## Source
 
-Les sources du projet peuvent être trouvé dans le répertoire src : [sources](src)
+Les sources du projet peuvent être trouvées dans le répertoire src : [sources](src)
 
 ## Raport
 
