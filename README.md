@@ -3,7 +3,7 @@ projet réaliser en java en appliquant les concepts de la programmation orienté
 
 ## Source
 
-Les sources du projet peuvent être trouvé dans le répertoire src : [sources](/src)
+Les sources du projet peuvent être trouvé dans le répertoire src : [sources](src)
 
 ## Raport
 
