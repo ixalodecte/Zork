@@ -19,6 +19,7 @@ import java.util.HashMap;
  *
  * @author     Michael Kolling
  * @author     Marc Champesme (pour la traduction francaise)
+ * @author     Marc Champesme (modification et ajout de méthodes)
  * @version    2.0
  * @since      March 2000
  */
